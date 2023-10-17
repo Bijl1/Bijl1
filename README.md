@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-## Connect with Me
-
 Feel free to connect with me on LinkedIn:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jonathanbijl/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jonathanbijl/))
+
 
 <!--
 **Bijl1/Bijl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
