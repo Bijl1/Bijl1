@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Feel free to connect with me on LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonathanbijl/)
+Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan-Bijl-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonathanbijl/)
 
 
 
