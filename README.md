@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue)]
-(https://www.linkedin.com/in/jonathanbijl/)
+
+
+#### Connect with Me
+
+- [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonathanbijl/)
+
 
 
 
