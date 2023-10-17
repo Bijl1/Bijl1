@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan-Bijl-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonathanbijl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue)]
+(https://www.linkedin.com/in/jonathanbijl/)
 
 
 
